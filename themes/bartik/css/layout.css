@@ -44,9 +44,11 @@ body,
   position: relative;
   padding: 20px;
   position: absolute;
-  left: 72px;
-  top: 40px;
-  font-size: 1em;
+  left: 60px;
+  top: 46px;
+  font-size: .9em;
+  text-transform: uppercase;
+  letter-spacing: .2em;
 }
 #logo div.line {
   border-bottom: 3px solid #fff;

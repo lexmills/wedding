@@ -564,7 +564,9 @@ h1#site-name {
   margin-top: 10px;
 }
 h1#page-title {
+  color: #fff;
   font-size: 2em;
+  text-transform: uppercase;
   line-height: 1;
 }
 #content h2 {

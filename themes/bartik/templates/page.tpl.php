@@ -124,7 +124,7 @@
 
     <div id="logo">
       <div class="box line"></div>
-      <div class="box design"><span>Dan &amp; Becky</span></div>
+      <div class="box design"><span>Becky &amp; Dan</span></div>
       <div class="box line"></div>
     </div>
 <!--     <div id="violator">The big day <span>5/17/2013</span></div>
