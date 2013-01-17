@@ -478,7 +478,6 @@ h1#site-name {
   line-height: 2.4em;
   padding: 0 0.8em;
   text-decoration: none;
-  text-shadow: 0 1px #eee;
   text-align: center;
   text-transform: uppercase;
   font-weight: bold;
@@ -1644,5 +1643,5 @@ div.admin-panel .description {
   background-color: #666;
 }
 #footer-wrapper .poll .bar .foreground {
-  background-color: #ddd;
-}
+/*  background-color: #ddd;
+*/}
