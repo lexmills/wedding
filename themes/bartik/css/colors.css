@@ -4,5 +4,6 @@ body {
 }
 
 a:-webkit-any-link {
-  color: #111;
+  color: #fff;
+  opacity: .7;
 }
